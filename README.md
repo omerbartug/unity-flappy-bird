@@ -29,8 +29,8 @@ This project was created as a learning exercise while I am studying Computer Eng
 
 ## Screenshots
 
-![Gameplay](Screenshots/gameplay.png)
-![Gameplay](Screenshots/gameplay2.png)
+![Gameplay](ScreenShots/gameplay.png)
+![Gameplay](ScreenShots/gameplay2.png)
 
 ## About This Project
 
