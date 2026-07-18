@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c8638850d444d4b7a8e39f69d277dca7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ustBoruPrefab: {fileID: 4711725898757572115, guid: 4d539af63f5324b55aae9934a09cd612, type: 3}
+  - altBoruPrefab: {fileID: 5648238933813629942, guid: 2a3873fbe8db94de4ab9d3a11cd6b764, type: 3}
+  - emptyPrefab: {fileID: 3762992340177703569, guid: 5cd82cf485a444990b7f96e1337a14eb, type: 3}
+  - ustBoru1: {instanceID: 0}
+  - altBoru1: {instanceID: 0}
+  - empty1: {instanceID: 0}
+  - ustBoru2: {instanceID: 0}
+  - altBoru2: {instanceID: 0}
+  - empty2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
