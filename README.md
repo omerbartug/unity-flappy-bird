@@ -27,6 +27,11 @@ This project was created as a learning exercise while I am studying Computer Eng
 - Unity
 - C#
 
+## Screenshots
+
+![Gameplay](Screenshots/gameplay.png)
+![Gameplay](Screenshots/gameplay2.png)
+
 ## About This Project
 
 I am a Computer Science student and I use projects like this to improve my game development and programming skills.
